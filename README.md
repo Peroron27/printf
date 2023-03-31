@@ -11,7 +11,7 @@ tests directory: Contains test files for testing the functionality of the printf
 README.mdfile: Contains information about the project
 
 How to Use
-Clone the repository to your local machine using git clone https://github.com/Dprof-code/printf/
+Clone the repository to your local machine using git clone https://github.com/Peroron27/printf/
 Navigate to the tests directory
 compile the c files using your preferred C compiler or use this code:
 gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c ../*.c
